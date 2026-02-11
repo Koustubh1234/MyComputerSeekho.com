@@ -1,0 +1,29 @@
+# ========= Common =========
+.DS_Store
+*.log
+.env
+
+# ========= IDE / System =========
+.metadata/
+.vscode/
+.idea/
+
+# ========= Java / Spring Boot =========
+target/
+*.class
+
+# ========= .NET =========
+bin/
+obj/
+
+# ========= React / Node =========
+node_modules/
+build/
+dist/
+
+# ========= Database =========
+*.db
+*.sqlite
+
+# ========= OS =========
+Thumbs.db
