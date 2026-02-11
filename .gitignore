@@ -27,3 +27,7 @@ dist/
 
 # ========= OS =========
 Thumbs.db
+# ========= Visual Studio / .NET =========
+.vs/
+*.user
+*.suo
